@@ -40,6 +40,8 @@ Program first copies sample books from "books.txt" that teacher gave us.
 
 Comments for codes are in ".h" files.
 
+Written and compiled using Microsoft Visual Studio Community 2017.
+
 Assignment document: (Turkish)
 https://tr.scribd.com/document/377704191/assignment
 ## License
